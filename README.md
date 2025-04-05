@@ -12,7 +12,6 @@
 ├── istio.tf                # Istio servis mesh kurulumu
 ├── deployments.tf          # Sample app, load generator ve benzeri manifest dosyalarının deploymentı
 ├── variables.tf            # Terraform değişkenleri
-└── terraform.tfvars        # Grafana alert için smtp password ve notification email tanımlaması
 ```
 
 ### Case'ler ve Çözümleri
